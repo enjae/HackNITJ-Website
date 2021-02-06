@@ -669,7 +669,7 @@ cite img{
 
 .section-plans{
     background-color: #f4f4f4;
-    height: 100vh;
+    height: auto;
 }
 
 .plan-box {
