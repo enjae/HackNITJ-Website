@@ -368,7 +368,7 @@ header{
     background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(img/themes_bg.jpg);
     background-size: cover;
     background-position: center;
-    height: 100vh;
+/*    height: 100vh;*/
 }
 .meals-showcase{
     list-style: none;
@@ -410,6 +410,12 @@ header{
     opacity: 1;
     -webkit-transform: scale(1.00);
     transform: scale(1.0);
+}
+
+.theme-name {
+    color: white;
+    text-align: center;
+    font-weight: bold;
 }
 
 
